@@ -25,7 +25,7 @@ Significa en este lugar y es preferible utilizarlo para no usar toda la ruta del
 ***
 ## Comando para admitir archivos.
 
-    git commit -m
+    git commit -m "un mensaje"
 
 ***
 ## Comando para crear una rama.
@@ -37,7 +37,7 @@ Significa en este lugar y es preferible utilizarlo para no usar toda la ruta del
     
     
 ***
-## Comando para borrar.
+## Comando que muestra la rama en la que estoy y las ramas existentes.
 
     git branch
 
