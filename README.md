@@ -1,21 +1,21 @@
 # Clases_Programacion
 ## Clase 3
 Lo que aprendi en la Clase tres fue:
-* Comando para imprimir en consola.
+* Funcion para imprimir en consola.
 * Que es una variable.
-* Comando para pedir cosas.
+* Funcion para pedir cosas.
 * Caracter reservado para dar salto de linea.
 * Caracter reservado para dar Tap.
 * Como agregar comentarios en mi proyecto.
 
 ***
-## Comando para imprimir en consola:
+## Funcion para imprimir en consola:
     print     
 ***
 ## Que es una variable:
 Se compone de un nombre y un valor cualquiera.
 ***
-## Comando para pedir cosas:
+## Funcioon para pedir cosas:
     input
 ***
 ## Caracter para dar salto de linea: 
