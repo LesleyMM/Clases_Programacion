@@ -1,4 +1,5 @@
 # Clases_Programacion
+## Clase 1
 Las cosas que vimos el martes fue:
 * Que es un repositorio. 
 * Como abrir la terminal.
