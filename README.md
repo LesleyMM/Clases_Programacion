@@ -4,8 +4,8 @@ Lo que aprendi en la Clase tres fue:
 * Comando para imprimir en consola.
 * Que es una variable.
 * Comando para pedir cosas.
-* Comando para dar salto de linea.
-* Comando para dar Tap.
+* Caracter reservado para dar salto de linea.
+* Caracter reservado para dar Tap.
 * Como agregar comentarios en mi proyecto.
 
 ***
@@ -18,10 +18,10 @@ Se compone de un nombre y un valor cualquiera.
 ## Comando para pedir cosas:
     input
 ***
-## Comando para dar salto de linea: 
+## Caracter para dar salto de linea: 
     \n
 ***
-## Comando para dar Tab:
+## Caracter para dar Tab:
     \t
 ***
 ## Como agregar comentarios:
