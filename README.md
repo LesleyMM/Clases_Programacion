@@ -16,13 +16,13 @@ El operador de igualdad nos indica cuando hay igualdad entre dos variables.
 ***
 ## Operador "mayor que":
 El operador "mayor que" nos indica cuando una variable es mayor a otra.
-#### El operador mayor que se representa con:
+#### El operador "mayor que" se representa con:
                             >
 ***
 
 ## Operador "menor que":
 El operador "menor que" nos indica cuando una variable es menor a otra.
-#### El operador menor que se representa con:
+#### El operador "menor que" se representa con:
                             <
 ***
 ## Como funciona if:
