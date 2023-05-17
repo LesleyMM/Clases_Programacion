@@ -6,7 +6,7 @@ if __name__ == '__main__':
     if Nombre_1 == Nombre_2:
         print(' Los nombres son iguales. ')
 
-    if Nombre_1 != Nombre_2:
+    else: 
         print(' Los nombres no son iguales. ')
 
 # Practica 2.
